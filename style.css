@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.container{
+    text-align: center;
+}
+.section-vis{
+    background-color: black;
+    color: white;
+
+}
+.section-vis{
+    padding: 5px;
+}
+
+.section-cr7__desc{
+     margin-left: auto;
+     margin-right: auto;
+}
+.section-cr7{
+    background-color: black;
+    color: white;
+}
+.section-two__imagecontainer{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.section-two__desc{
+    width: 200px;
+}
+.section-two__btn{
+  color:white;
+  background-color:purple;
+    padding: 5px 10px 5px  10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.section-two__btn:hover{
+    border-bottom: 2px white solid;
+}
+.section-two,.section-cr7,.section-four{
+    margin-top: 30px;
+}
+.section-one{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    padding: 10px 10px;
+}
+.section-cr7__input,.section-cr7__names{
+    padding: 5px 15px 5px 15px;
+    margin: 10px;
+} 
+.section-four button{
+    padding: 5px 150px 5px 150px;
+    font-size: 18px;
+    margin-top: 15px;
+    background-color:yellow;
+    color: black;
+    border: transparent;
+    cursor: pointer;
+    margin-bottom: 10px;
+ 
+}
+.section-cr7__{
+    background-color: black;
+}
+
+.section-four:hover{
+color: burlywood;
+}
+.section-cr7__input:focus{
+    outline: blueviolet;
+    color: red;
+}
+.container{
+    padding: 5px;
+}
